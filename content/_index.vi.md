@@ -10,7 +10,7 @@ chapter = true
 ## Nội dung
 
 1. [Tổng quan về AWS Control Tower](1-overview/_index.vi.md)
-2. [Mô hình và Các tài nguyên cần thiết](2-labdiagram-requirements/_index.vi.md)
-3. [Xây dựng AWS Control Tower](3-create-aws-control-tower/_index.vi.md)
-4. [Thêm các Tài khoản với Account Factory](4-add-account/_index.vi.md)
-5. [Thiết lập AWS Single Sign-On](5-create-aws-single-sign-on/_index.vi.md)
+2. [Mô hình và Các tài nguyên cần thiết](2-requirements/_index.vi.md)
+3. [Xây dựng AWS Control Tower](3-control-tower/_index.vi.md)
+4. [Thêm các Tài khoản với Account Factory](4-newaccount/_index.vi.md)
+5. [Thiết lập AWS Single Sign-On](5-aws-sso/_index.vi.md)
